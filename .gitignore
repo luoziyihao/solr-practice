@@ -2,6 +2,8 @@
 *.iml
 target/
 rebel.xml
-/src
-
-
+*.rebel
+dependency-reduced-pom.xml
+logs
+log
+*.log.*
